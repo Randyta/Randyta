@@ -13,6 +13,6 @@
   - [Network File Shares and Permissions](https://github.com/AaronHaist/Network-File-Shares-And-Perms/tree/main)
 
 
-- <b>osTicket (Microsoft Azure Administrator Labs)</b>
+- <b>Microsoft Azure Administrator Labs</b>
   - [Lab 01 - Manage Microsoft Entra ID Identities](https://github.com/randyta/Lab-01---Manage-Microsoft-Entra-ID-Identities?tab=readme-ov-file)
 
