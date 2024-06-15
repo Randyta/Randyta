@@ -15,4 +15,5 @@
 
 - <b>Microsoft Azure Administrator Labs</b>
   - [Lab 01 - Manage Microsoft Entra ID Identities](https://github.com/randyta/Lab-01---Manage-Microsoft-Entra-ID-Identities?tab=readme-ov-file)
+  - [Lab 02a - Manage Subscriptions and RBAC](https://github.com/randyta/LAB_02a_Manage_Subscriptions_and_RBAC_Entra)
 
