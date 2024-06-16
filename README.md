@@ -26,4 +26,4 @@
   - [Lab 09b - Implement Azure Container Instances](https://github.com/randyta/LAB_09b-Implement_Azure_Container_Instances)
   - [Lab 09c - Implement Azure Container Apps](https://github.com/randyta/LAB_09c-Implement-Azure-Container-Apps)
   - [Lab 10 - Implement Data Protection](https://github.com/randyta/LAB_10-Implement_Data_Protection)
-  - [Lab 11 - Implement Monitoring](https://github.com/randyta/LAB_10-Implement_Data_Protection)
+  - [Lab 11 - Implement Monitoring](https://github.com/randyta/LAB_11-Implement_Monitoring)
