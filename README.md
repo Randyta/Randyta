@@ -16,4 +16,9 @@
 - <b>Microsoft Azure Administrator Labs</b>
   - [Lab 01 - Manage Microsoft Entra ID Identities](https://github.com/randyta/Lab-01---Manage-Microsoft-Entra-ID-Identities?tab=readme-ov-file)
   - [Lab 02a - Manage Subscriptions and RBAC](https://github.com/randyta/LAB_02a_Manage_Subscriptions_and_RBAC_Entra)
-
+  - [Lab 03 - Manage Azure resources by using Azure Resource Manager Templates](https://github.com/randyta/LAB_03b-Manage_Azure_Resources_by_Using_ARM_Templates)
+  - [Lab 04 - Implement Virtual Networking](https://github.com/randyta/LAB_04-Implement_Virtual_Networking)
+  - [Lab 05 - Implement Intersite Connectivity](https://github.com/randyta/LAB_05-Implement_Intersite_Connectivity)
+  - [Lab 06 - Implement Traffic Management](https://github.com/randyta/LAB_06-Implement_Network_Traffic_Management)
+  - [Lab 07 - Manage Azure Storage](https://github.com/randyta/LAB_07-Manage_Azure_Storage)
+  - [Lab 08 - Manage Virtual Machines](https://github.com/randyta/LAB_08-Manage_Virtual_Machines)    
