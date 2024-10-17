@@ -7,7 +7,7 @@
   - [osTicket: Post-Installation Configuration](https://github.com/AaronHaist/osticket-post-install)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/AaronHaist/Ticket-Lifecycle)
 - <b>Microsoft Azure</b>
-  - [Creating Resource Groups and Deploying Virtual Machines in Azure](https://github.com/AaronHaist/Rescource-Groups-and-VMs)
+  - [Creating Resource Groups and Deploying Virtual Machines in Azure](https://github.com/randyta/Rescource-Groups-and-VMs)
   - [Installing Active Directory within Azure VMs](https://github.com/AaronHaist/Active-Directory-Install)
   - [Configuring Active Directory with Azure VMs](https://github.com/AaronHaist/Configuring-Active-Directory)
   - [Network File Shares and Permissions](https://github.com/AaronHaist/Network-File-Shares-And-Perms/tree/main)
