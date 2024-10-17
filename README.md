@@ -3,9 +3,9 @@
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
-  - [osTicket: Prerequisites and Installation](https://github.com/AaronHaist/osticket-prereqs)
-  - [osTicket: Post-Installation Configuration](https://github.com/AaronHaist/osticket-post-install)
-  - [osTicket: Ticket Lifecycle Examples](https://github.com/AaronHaist/Ticket-Lifecycle)
+  - [osTicket: Prerequisites and Installation](https://github.com/randyta/osticket-prereqs)
+  - [osTicket: Post-Installation Configuration](https://github.com/randyta/osticket-post-install)
+  - [osTicket: Ticket Lifecycle Examples](https://github.com/randyta/Ticket-Lifecycle)
 - <b>Microsoft Azure</b>
   - [Creating Resource Groups and Deploying Virtual Machines in Azure](https://github.com/randyta/Rescource-Groups-and-VMs)
   - [Installing Active Directory within Azure VMs](https://github.com/randyta/Active-Directory-Install)
