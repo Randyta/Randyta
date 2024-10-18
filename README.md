@@ -11,7 +11,7 @@
   - [Installing Active Directory within Azure VMs](https://github.com/randyta/Active-Directory-Install)
   - [Configuring Active Directory with Azure VMs](https://github.com/randyta/Configuring-Active-Directory)
   - [Network File Shares and Permissions](https://github.com/randyta/Network-File-Shares-And-Perms)
-  - [Network File Shares and Permissions](https://github.com/randyta/Install-and-Setup-Azure-AD-Connect/blob/main/README.md)
+  - [Install and Setup Azure Ad Connect](https://github.com/randyta/Install-and-Setup-Azure-AD-Connect/blob/main/README.md)
 
 - <b>Microsoft Azure Administrator Labs</b>
   - [Lab 01 - Manage Microsoft Entra ID Identities](https://github.com/randyta/Lab-01---Manage-Microsoft-Entra-ID-Identities?tab=readme-ov-file)
