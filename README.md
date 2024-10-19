@@ -28,7 +28,7 @@
   - [Lab 10 - Implement Data Protection](https://github.com/randyta/LAB_10-Implement_Data_Protection)
   - [Lab 11 - Implement Monitoring](https://github.com/randyta/LAB_11-Implement_Monitoring)
  
-  - <h2>🤳Connect with me:</h2>
+ <h2>🤳Connect with me:</h2>
 
 [<img align="left" alt="Aaron | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
