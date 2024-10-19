@@ -1,3 +1,5 @@
+<h1>Hi, I'm Randy, an <a href="https://www.linkedin.com/in/randy-ta-b2861b217/">IT Professional</a>☺</h1>
+
 <h1>Hi, I'm Randy, an IT Professional</a>☺</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
@@ -27,3 +29,9 @@
   - [Lab 09c - Implement Azure Container Apps](https://github.com/randyta/LAB_09c-Implement-Azure-Container-Apps)
   - [Lab 10 - Implement Data Protection](https://github.com/randyta/LAB_10-Implement_Data_Protection)
   - [Lab 11 - Implement Monitoring](https://github.com/randyta/LAB_11-Implement_Monitoring)
+ 
+  - <h2>🤳Connect with me:</h2>
+
+[<img align="left" alt="Aaron | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+[linkedin]: [https://www.linkedin.com/in/aaronhaist](https://www.linkedin.com/in/randy-ta-b2861b217/)
